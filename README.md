@@ -1,41 +1,28 @@
-Create a premium LinkedIn profile banner for a UI/UX Designer and Frontend Developer personal brand.
+# 💜 Hi, I'm Asanka 👋
 
-Theme:
-Futuristic dark cyber aesthetic with black background and neon purple gradients.
+<div align="center">
 
-Main text:
-"ASANKA DESIGN"
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ASANKA+DESIGN;UI%2FUX+Designer;Frontend+Developer;Creative+Problem+Solver;Building+Digital+Experiences" />
 
-Subtitle:
-"UI/UX Designer • Frontend Developer • Creative Problem Solver"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=Asanka%20Design&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-Design elements:
-- Modern futuristic typography
-- Glowing neon purple text effects
-- Minimal tech-inspired background
-- Abstract 3D shapes
-- Glassmorphism UI panels
-- Figma design elements
-- Code snippets subtly integrated
-- Digital grid patterns
-- Soft purple lighting effects
-- Professional portfolio style
+</div>
 
-Layout:
-- Keep the left side clean for LinkedIn profile picture placement
-- Place name and title on the right side
-- Balanced premium branding composition
-- Suitable for a professional designer portfolio
+---
 
-Style:
-Apple design aesthetics + Dribbble premium UI style + futuristic technology feel
+## 🖤 About Me
 
-Colors:
-Black (#000000)
-Dark purple (#12002F)
-Neon purple (#A855F7)
-White highlights
+Hello! I'm **Asanka**, a passionate **UI/UX Designer and Frontend Developer** from Sri Lanka.
 
-Resolution:
-LinkedIn banner size 1584x396 px
-Ultra high quality, clean, professional, modern
+I enjoy creating modern, clean, and user-friendly digital experiences by combining creativity with technology.
+
+🎨 UI/UX Design  
+💻 Frontend Development  
+🚀 Web Experiences  
+✨ Branding & Visual Design  
+
+Currently pursuing **BSc (Hons) Information Technology** and continuously improving my skills in design and development.
+
+---
+
+## 💜 My Design Philosophy
