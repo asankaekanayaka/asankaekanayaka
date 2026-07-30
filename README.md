@@ -1,221 +1,113 @@
-<!-- ========================================================= -->
-<!--          ASANKA EKNAYAKA UI/UX DESIGNER PROFILE          -->
-<!-- ========================================================= -->
+# 💜 Hi, I'm Asanka 👋
 
-<h1 align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Asanka+Ekanayaka;UI%2FUX+Designer;Graphic+Designer;IT+Undergraduate;Creating+Modern+Digital+Experiences"/>
-
-</h1>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Creative+Problem+Solver;Frontend+Developer;Freelancer;Designing+Digital+Experiences" />
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=asankaekanayaka&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/asankaekanayaka?style=for-the-badge&logo=github&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/asankaekanayaka?style=for-the-badge&logo=github&color=F59E0B"/>
-
-<img src="https://img.shields.io/badge/Open%20To-UI%2FUX%20Internships-success?style=for-the-badge"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=Asanka%20Design&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-
-# 👋 Welcome to My Design World
-
-
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-
-# 💼 About Me
-
-
-I'm **Asanka Ekanayaka**, a passionate **UI/UX Designer, Graphic Designer, and IT Undergraduate** from **Sri Lanka 🇱🇰**.
-
-
-I love creating clean, modern and user-friendly digital experiences by combining creativity, design thinking and technology.
-
-
-My focus is designing products that are not only visually attractive but also meaningful, accessible and easy to use.
-
-
-### 🚀 Current Focus
-
-
-- 🎨 UI/UX Design
-- 📱 Mobile App Design
-- 🌐 Web Design
-- 🔍 User Research
-- ✏️ Wireframing
-- 🧩 Prototyping
-- 🎯 Design Systems
-- 💻 Frontend Development
-
-
-</td>
-
-
-<td width="42%" align="center">
-
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-</td>
-
-</tr>
-</table>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-
-
-# ⚡ Quick Information
-
-
-```yaml
-Name        : Asanka Ekanayaka
-
-Country     : Sri Lanka 🇱🇰
-
-Education   : BSc (Hons) Information Technology
-
-Institute   : Sri Lanka Institute of Information Technology (SLIIT)
-
-Role        : UI/UX Designer
-
-Skills      : UX Design, UI Design, Graphic Design
-
-Tools       : Figma, Adobe XD, Photoshop, Illustrator
-
-Learning    : React, Design Systems, UX Research
-
-Status      : Open For UI/UX Opportunities
-
-<!-- ========================================================= -->
-<!--                 TOOLS & TECH STACK                        -->
-<!-- ========================================================= -->
-
-
-# 🛠 Design Tools
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,canva,vscode,git,github"/>
-
-</p>
-
-
-<div align="center">
-
-
-<img src="https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-Advanced-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-Advanced-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX-470137?style=for-the-badge&logo=adobexd"/>
-
-
-</div>
-
-
 
 ---
 
+## 🖤 About Me
 
-# 💻 Tech Stack
+Hi, I'm **Asanka**, a passionate **UI/UX Designer & Frontend Developer** from Sri Lanka.
 
+I love creating modern, user-friendly digital experiences by combining:
 
-### 🌐 Frontend Development
+🎨 UI/UX Design  
+💻 Frontend Development  
+🚀 Creative Branding  
+📱 Responsive Web Design  
 
+Currently studying **BSc (Hons) Information Technology** and building my skills in product design, web technologies, and digital solutions.
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+## 💜 My Design Philosophy
+
+> "Good design is not only about how it looks, but how it works."
+
+I focus on creating interfaces that are:
+
+✨ Simple  
+✨ Modern  
+✨ User-centered  
+✨ Visually engaging  
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Design
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Wireframing
+- Prototyping
+- Design Systems
+
+### 💻 Development
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Java
+- Python
+
+---
+
+## 🚀 Current Projects
+
+🔹 Smart Campus Management System  
+🔹 Library Management Platform  
+🔹 Travel Website UI Design  
+🔹 Brand Identity Projects  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_FIVERR_LINK">
+<img src="https://img.shields.io/badge/Fiverr-8B5CF6?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
+---
 
+## 📊 GitHub Stats
 
-### ⚙ Backend Development
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
+---
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-
-</p>
-
-
-
-### 🗄 Database
-
+## 🎨 Featured Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,react,nodejs,mongodb,java,python&theme=dark"/>
 </p>
 
+---
 
+<p align="center">
 
-### 🛠 Development Tools
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:000000&height=120&section=footer"/>
 
 </p>
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-
-
-# 📱 Featured Projects
-
-
-
-<table>
-
-<tr>
-
-
-<td width="50%">
-
-
-## ✈️ Ceylone Travel
-
-
-### 🌴 Travel Website UI/UX Design
-
-
-A modern travel platform designed to provide a smooth and enjoyable travel planning experience.
-
-
-### Features
-
-- 🏝 Destination Discovery
-- 🗺 Travel Packages
-- 📅 Booking Experience
-- ⭐ Customer Reviews
-- 📝 Travel Blog
-- 📱 Responsive Interface
-
-
-**Design Tools**
-
