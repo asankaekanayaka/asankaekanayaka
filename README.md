@@ -122,6 +122,36 @@ A visually engaging travel platform focused on destinations, booking experiences
 
 </div>
 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/asankaekanayaka/">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<a href="https://github.com/asankaekanayaka/">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<a href="https://www.behance.net/asankaekanayaka18">
+<img src="https://img.shields.io/badge/Behance-A855F7?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+
+<a href="YOUR_DRIBBBLE_LINK">
+<img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white"/>
+</a>
+
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
 
 ---
 
