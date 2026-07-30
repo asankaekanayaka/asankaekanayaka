@@ -70,4 +70,107 @@ Passionate <b>UI/UX Designer</b> from <b>Sri Lanka 🇱🇰</b> focused on creat
 
 </div>
 
+<!-- ========================= ABOUT ME ========================= -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+# 👋 Modern Introduction
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+## 💼 About Me
+
+Hi there! I'm **Asanka Ekanayaka**, a passionate **UI/UX Designer**, **Graphic Designer**, and **IT Undergraduate** from **Sri Lanka 🇱🇰**.
+
+I enjoy transforming ideas into clean, modern, and user-centered digital experiences. My goal is to design products that are not only visually appealing but also intuitive, accessible, and enjoyable to use.
+
+Currently, I'm expanding my expertise in **UI/UX Design**, **Design Systems**, **Frontend Development**, and **User Research** while building real-world projects and continuously improving my design thinking.
+
+### 🚀 What I Do
+
+- 🎨 Design modern Web & Mobile Interfaces
+- 📱 Create Interactive UI Prototypes
+- ✨ Build Design Systems
+- 🔍 Conduct UX Research
+- 🧩 Design User Flows & Wireframes
+- 💡 Solve Real User Problems
+- 🚀 Transform Ideas into Beautiful Products
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
+
+# 🚀 Current Focus
+
+```yaml
+🎯 Focus Area:
+  - UI/UX Design
+  - Mobile App Design
+  - Web Application Design
+  - Design Systems
+  - UX Research
+  - User Testing
+
+📚 Currently Learning:
+  - Advanced Figma
+  - UX Strategy
+  - Motion Design
+  - Frontend Development
+  - React.js
+  - Accessibility
+
+💼 Looking For:
+  - UI/UX Internship
+  - Freelance Projects
+  - Open Source Collaboration
+```
+
+---
+
+# 🌟 Why UI/UX?
+
+> "Great design is more than making things look beautiful.
+> It's about understanding people, solving problems,
+> and creating experiences that leave a lasting impression."
+
+---
+
+# 💡 My Design Process
+
+```text
+🔍 Research
+      ↓
+✍️ Wireframing
+      ↓
+🎨 UI Design
+      ↓
+📱 Prototype
+      ↓
+🧪 User Testing
+      ↓
+🚀 Final Product
+```
+
+---
+
+# ❤️ Fun Facts
+
+- ☕ Coffee makes my creativity stronger
+- 🎨 I love creating clean & minimal interfaces
+- 🌍 I enjoy exploring modern design trends
+- 📚 Learning something new every day
+- 🚀 Passionate about solving user problems
+- 💜 Figma is my favorite design tool
+
