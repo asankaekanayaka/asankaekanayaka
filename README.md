@@ -161,7 +161,111 @@ Currently, I'm expanding my expertise in **UI/UX Design**, **Design Systems**, *
 🧪 User Testing
       ↓
 🚀 Final Product
-```
+
+<!-- ========================= SKILLS ========================= -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+# 🚀 UI/UX Skills
+
+<div align="center">
+
+| 🎨 UI Design | 🧠 UX Design | 📱 Product Design | 💻 Frontend |
+|:------------:|:------------:|:-----------------:|:-----------:|
+| Wireframing | User Research | Design Systems | HTML5 |
+| High-Fidelity UI | User Flows | Responsive Design | CSS3 |
+| Mobile UI | Personas | Accessibility | JavaScript |
+| Dashboard Design | Usability Testing | Interaction Design | React |
+
+</div>
+
+---
+
+# 🎨 Design Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,vscode,git,github"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-Advanced-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-Advanced-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6"/>
+
+<img src="https://img.shields.io/badge/Canva-Creative-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+
+### ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### 🛠 Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+</div>
+
+---
+
+# 📊 Skill Matrix
+
+| Skill | Level |
+|------|:------:|
+| 🎨 UI Design | ⭐⭐⭐⭐⭐ |
+| 🧠 UX Design | ⭐⭐⭐⭐☆ |
+| 📱 Mobile Design | ⭐⭐⭐⭐⭐ |
+| 💻 Web Design | ⭐⭐⭐⭐⭐ |
+| 🧩 Wireframing | ⭐⭐⭐⭐⭐ |
+| 🎯 Prototyping | ⭐⭐⭐⭐⭐ |
+| 🔍 User Research | ⭐⭐⭐⭐☆ |
+| 🎨 Design Systems | ⭐⭐⭐⭐☆ |
+| ⚡ HTML/CSS | ⭐⭐⭐⭐⭐ |
+| 🚀 JavaScript | ⭐⭐⭐⭐☆ |
+| ⚛ React | ⭐⭐⭐☆☆ |
+
+---
+
+# 🏅 Core Strengths
+
+<div align="center">
+
+✅ User-Centered Design
+
+✅ Problem Solving
+
+✅ Creative Thinking
+
+✅ Pixel Perfect UI
+
+✅ Responsive Design
+
+✅ Clean Layouts
+
+✅ Modern Interfaces
+
+✅ Team Collaboration
+
+</div>
 
 ---
 
