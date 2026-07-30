@@ -277,4 +277,155 @@ Currently, I'm expanding my expertise in **UI/UX Design**, **Design Systems**, *
 - 📚 Learning something new every day
 - 🚀 Passionate about solving user problems
 - 💜 Figma is my favorite design tool
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+# 📱 Featured UI/UX Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ✈️ Ceylone Travel
+
+### 🌴 Travel Website UI/UX Design
+
+A modern travel platform designed to showcase Sri Lankan destinations, travel packages, and booking experiences.
+
+### Features
+
+- 🏝 Destination Discovery
+- 🗺 Travel Package Design
+- 📅 Booking Experience
+- ⭐ Customer Reviews
+- 📝 Travel Blog Interface
+- 📱 Responsive Design
+
+**Design Tools**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
+
+</td>
+
+
+<td width="50%">
+
+## 📚 LibraryHub
+
+### 📖 Smart Library Management System
+
+A user-friendly digital library experience focused on improving book discovery and student interaction.
+
+### Features
+
+- 🔍 Smart Book Search
+- 📚 Book Recommendations
+- 🪑 Seat & Room Booking
+- 🤝 Study Groups
+- 🎁 Book Donation System
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb"/>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+
+## 🏫 Smart Campus Operations Hub
+
+### 🎓 Campus Management Platform
+
+A complete campus solution designed to manage resources, bookings, and student services.
+
+### Features
+
+- 🏢 Resource Booking
+- 🔧 Maintenance Requests
+- 🔔 Notifications
+- 📊 Admin Dashboard
+- 👨‍🎓 Student Experience Design
+
+</td>
+
+
+<td>
+
+## 📱 Mobile App Design Collection
+
+### 🎨 UI/UX Case Studies
+
+Collection of mobile app concepts created with user-centered design principles.
+
+### Includes
+
+- User Research
+- Wireframes
+- User Flows
+- High Fidelity Designs
+- Interactive Prototypes
+
+</td>
+
+</tr>
+
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asankaekanayaka&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankaekanayaka&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asankaekanayaka&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asankaekanayaka&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/asankaekanayaka/asankaekanayaka/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+> ⚠️ Enable GitHub Snake animation using GitHub Actions.
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
