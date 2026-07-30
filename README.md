@@ -20,3 +20,33 @@ I specialize in creating modern, user-friendly digital experiences through creat
 💡 User-Centered Design Thinking  
 
 I love transforming ideas into beautiful and meaningful digital products.
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_BEHANCE_URL">
+<img src="https://img.shields.io/badge/Behance-A855F7?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="YOUR_DRIBBBLE_URL">
+<img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_FIVERR_URL">
+<img src="https://img.shields.io/badge/Fiverr-000000?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+</div>
