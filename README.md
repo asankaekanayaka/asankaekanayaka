@@ -10,17 +10,13 @@
 
 ## 🖤 About Me
 
-Hello! I'm **Asanka**, a passionate **UI/UX Designer and Frontend Developer** from Sri Lanka.
+Hello! I'm **Asanka Ekanayaka**, a passionate **UI/UX Designer** from Sri Lanka.
 
-I enjoy creating modern, clean, and user-friendly digital experiences by combining creativity with technology.
+I specialize in creating modern, user-friendly digital experiences through creative design, research, and problem-solving.
 
 🎨 UI/UX Design  
-💻 Frontend Development  
-🚀 Web Experiences  
-✨ Branding & Visual Design  
+🖌️ Visual Design  
+📱 Mobile & Web Interface Design  
+💡 User-Centered Design Thinking  
 
-Currently pursuing **BSc (Hons) Information Technology** and continuously improving my skills in design and development.
-
----
-
-## 💜 My Design Philosophy
+I love transforming ideas into beautiful and meaningful digital products.
