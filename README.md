@@ -100,3 +100,122 @@ Tools       : Figma, Adobe XD, Photoshop, Illustrator
 Learning    : React, Design Systems, UX Research
 
 Status      : Open For UI/UX Opportunities
+
+<!-- ========================================================= -->
+<!--                 TOOLS & TECH STACK                        -->
+<!-- ========================================================= -->
+
+
+# 🛠 Design Tools
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,canva,vscode,git,github"/>
+
+</p>
+
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-Advanced-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-Advanced-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX-470137?style=for-the-badge&logo=adobexd"/>
+
+
+</div>
+
+
+
+---
+
+
+# 💻 Tech Stack
+
+
+### 🌐 Frontend Development
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+
+</p>
+
+
+
+### ⚙ Backend Development
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+</p>
+
+
+
+### 🗄 Database
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+
+
+### 🛠 Development Tools
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+
+
+# 📱 Featured Projects
+
+
+
+<table>
+
+<tr>
+
+
+<td width="50%">
+
+
+## ✈️ Ceylone Travel
+
+
+### 🌴 Travel Website UI/UX Design
+
+
+A modern travel platform designed to provide a smooth and enjoyable travel planning experience.
+
+
+### Features
+
+- 🏝 Destination Discovery
+- 🗺 Travel Packages
+- 📅 Booking Experience
+- ⭐ Customer Reviews
+- 📝 Travel Blog
+- 📱 Responsive Interface
+
+
+**Design Tools**
+
