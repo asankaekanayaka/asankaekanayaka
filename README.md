@@ -77,42 +77,6 @@ A visually engaging travel platform focused on destinations, booking experiences
 
 ---
 
-# 🌐 Connect With Me
-
-
-<div align="center">
-
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-<a href="YOUR_BEHANCE_LINK">
-<img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-
-<a href="YOUR_DRIBBBLE_LINK">
-<img src="https://img.shields.io/badge/Dribbble-A855F7?style=for-the-badge&logo=dribbble&logoColor=white"/>
-</a>
-
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-
-</div>
-
-
----
-
 # 📊 GitHub Stats
 
 
