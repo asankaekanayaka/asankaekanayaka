@@ -429,3 +429,136 @@ Collection of mobile app concepts created with user-centered design principles.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+# 🏆 Achievements & Highlights
+
+<div align="center">
+
+| Achievement | Status |
+|-------------|--------|
+| 🎨 UI/UX Design Projects | ✅ Completed |
+| 📱 Mobile & Web Interface Designs | ✅ Completed |
+| 🧩 Figma Prototyping | ✅ Active |
+| 💻 Frontend Development Skills | ✅ Improving |
+| 🚀 Real-world Projects | ✅ Building |
+| 🌱 Continuous Learning | 🔥 Always |
+
+</div>
+
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Currently Working On:
+
+🎨 Creating modern UI/UX case studies
+
+📱 Designing mobile application experiences
+
+🌐 Improving frontend development skills
+
+🧠 Learning advanced UX research
+
+🧩 Building scalable design systems
+
+🚀 Creating portfolio-ready projects
+```
+
+
+---
+
+# 💡 Design Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Design+is+not+just+about+looks;It's+about+creating+better+experiences;Understand+users.+Solve+problems.+Create+impact."/>
+
+</div>
+
+
+> "Good design is not only what users see,
+> it's what users feel while interacting with a product."
+
+My design approach focuses on:
+
+✨ User-centered thinking  
+✨ Simple and meaningful interfaces  
+✨ Accessibility & usability  
+✨ Consistent design systems  
+✨ Solving real problems through creativity  
+
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/asankaekanayaka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+<a href="https://www.behance.net/">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
+</a>
+
+
+<a href="https://dribbble.com/">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble"/>
+</a>
+
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+---
+
+# 🚀 2026 Goals
+
+- 🎨 Become a Professional UI/UX Designer
+- 📚 Complete Google UX Design Certificate
+- 💼 Gain UI/UX Internship Experience
+- 🌍 Work with International Clients
+- 🧩 Build Strong UX Case Studies
+- 🚀 Create Innovative Digital Products
+- 🤝 Collaborate with Designers & Developers
+
+
+---
+
+# 🌊 Animated Footer
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
+
+</div>
+
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Let's+Create+Amazing+Digital+Experiences+Together+🚀"/>
+
+</p>
