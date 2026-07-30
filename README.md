@@ -1,113 +1,41 @@
-# 💜 Hi, I'm Asanka 👋
+Create a premium LinkedIn profile banner for a UI/UX Designer and Frontend Developer personal brand.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Creative+Problem+Solver;Frontend+Developer;Freelancer;Designing+Digital+Experiences" />
+Theme:
+Futuristic dark cyber aesthetic with black background and neon purple gradients.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B5CF6&height=200&section=header&text=Asanka%20Design&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
+Main text:
+"ASANKA DESIGN"
 
----
+Subtitle:
+"UI/UX Designer • Frontend Developer • Creative Problem Solver"
 
-## 🖤 About Me
+Design elements:
+- Modern futuristic typography
+- Glowing neon purple text effects
+- Minimal tech-inspired background
+- Abstract 3D shapes
+- Glassmorphism UI panels
+- Figma design elements
+- Code snippets subtly integrated
+- Digital grid patterns
+- Soft purple lighting effects
+- Professional portfolio style
 
-Hi, I'm **Asanka**, a passionate **UI/UX Designer & Frontend Developer** from Sri Lanka.
+Layout:
+- Keep the left side clean for LinkedIn profile picture placement
+- Place name and title on the right side
+- Balanced premium branding composition
+- Suitable for a professional designer portfolio
 
-I love creating modern, user-friendly digital experiences by combining:
+Style:
+Apple design aesthetics + Dribbble premium UI style + futuristic technology feel
 
-🎨 UI/UX Design  
-💻 Frontend Development  
-🚀 Creative Branding  
-📱 Responsive Web Design  
+Colors:
+Black (#000000)
+Dark purple (#12002F)
+Neon purple (#A855F7)
+White highlights
 
-Currently studying **BSc (Hons) Information Technology** and building my skills in product design, web technologies, and digital solutions.
-
----
-
-## 💜 My Design Philosophy
-
-> "Good design is not only about how it looks, but how it works."
-
-I focus on creating interfaces that are:
-
-✨ Simple  
-✨ Modern  
-✨ User-centered  
-✨ Visually engaging  
-
----
-
-## 🛠️ Skills
-
-### 🎨 Design
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Wireframing
-- Prototyping
-- Design Systems
-
-### 💻 Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Java
-- Python
-
----
-
-## 🚀 Current Projects
-
-🔹 Smart Campus Management System  
-🔹 Library Management Platform  
-🔹 Travel Website UI Design  
-🔹 Brand Identity Projects  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_FIVERR_LINK">
-<img src="https://img.shields.io/badge/Fiverr-8B5CF6?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
----
-
-## 🎨 Featured Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,react,nodejs,mongodb,java,python&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:000000&height=120&section=footer"/>
-
-</p>
+Resolution:
+LinkedIn banner size 1584x396 px
+Ultra high quality, clean, professional, modern
