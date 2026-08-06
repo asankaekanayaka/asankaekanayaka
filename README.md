@@ -7,7 +7,7 @@
 </div>
 
 
-# 💜 About Me
+# About Me
 
 Hello! I'm **Asanka Ekanayaka**, a passionate **UI/UX Designer** from Sri Lanka.
 
